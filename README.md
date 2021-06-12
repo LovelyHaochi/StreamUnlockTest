@@ -1,6 +1,4 @@
-<p align="center">
-    <h1>StreamUnlockTest</h1>
-</p>
+<h1 align="center">StreamUnlockTest</h1>
 
 <p align="center">
     <a href="https://github.com/LovelyHaochi/StreamUnlockTest" alt="Version">
