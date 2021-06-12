@@ -1,7 +1,20 @@
-# StreamUnlockTest
-一个沙雕解锁测试玩意
+<p align="center">
+    <h1>StreamUnlockTest</h1>
+</p>
 
-## 使用方法
+<p align="center">
+    <a href="https://github.com/LovelyHaochi/StreamUnlockTest" alt="Version">
+        <img src="https://img.shields.io/badge/version-1.1.5-blue" />
+    </a>
+    <a href="https://github.com/LovelyHaochi/StreamUnlockTest" alt="Downloads">
+        <img src="https://img.shields.io/badge/downloads-9.9k%2Fmonth-brightgreen" />
+    </a>
+    <a href="https://github.com/LovelyHaochi/StreamUnlockTest" alt="Rating">
+        <img src="https://img.shields.io/badge/rating-★★★★★-brightgreen" />
+    </a>
+</p>
+
+## 快速开始
 ```bash
 bash <(curl -sSL "https://git.io/JswGm")
 ```
